@@ -1,0 +1,7 @@
+C:\Mary\projects\Calculator\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+C:\Mary\projects\Calculator\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\Mary\projects\Calculator\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Mary\projects\Calculator\CalculatorTest\bin\Debug\CalculatorLogic.dll
+C:\Mary\projects\Calculator\CalculatorTest\bin\Debug\CalculatorLogic.pdb
+C:\Mary\projects\Calculator\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\Mary\projects\Calculator\CalculatorTest\obj\Debug\CalculatorTest.pdb

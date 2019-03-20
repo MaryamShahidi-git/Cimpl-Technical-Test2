@@ -4,16 +4,17 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace CalculatorTest
 {
+    [TestClass]
     public class UnitTest1
     {
-        [TestClass]
+        [TestMethod]
         public void ShouldAddTwoNumbers()
         {
             var x = new Calculator().Sum(1, 2);
             Assert.AreEqual(x, 3);
         }
 
-        [TestClass]
+        [TestMethod]
         public void ShouldMultiplyTwoNumbers()
         {
             var x = new Calculator().Multiply(3, 2);
