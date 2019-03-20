@@ -1,0 +1,1 @@
+C:\Mary\projects\Calculator\Calculator\bin\Debug\Calculator.exe.config

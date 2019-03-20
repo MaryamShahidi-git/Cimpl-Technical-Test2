@@ -1,0 +1,8 @@
+C:\Mary\projects\Calculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+C:\Mary\projects\Calculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+C:\Mary\projects\Calculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+C:\Mary\projects\Calculator\ConsoleCalculator\bin\Debug\CalculatorLogic.dll
+C:\Mary\projects\Calculator\ConsoleCalculator\bin\Debug\CalculatorLogic.pdb
+C:\Mary\projects\Calculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csprojResolveAssemblyReference.cache
+C:\Mary\projects\Calculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+C:\Mary\projects\Calculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb

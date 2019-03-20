@@ -1,0 +1,5 @@
+C:\Mary\projects\Calculator\CalculatorLogic\bin\Debug\CalculatorLogic.dll
+C:\Mary\projects\Calculator\CalculatorLogic\bin\Debug\CalculatorLogic.pdb
+C:\Mary\projects\Calculator\CalculatorLogic\obj\Debug\CalculatorLogic.csprojResolveAssemblyReference.cache
+C:\Mary\projects\Calculator\CalculatorLogic\obj\Debug\CalculatorLogic.dll
+C:\Mary\projects\Calculator\CalculatorLogic\obj\Debug\CalculatorLogic.pdb
