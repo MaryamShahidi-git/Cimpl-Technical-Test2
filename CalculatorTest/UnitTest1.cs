@@ -4,6 +4,7 @@
 //using Xunit;
 
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 
 namespace CalculatorTest
 {
@@ -29,6 +30,29 @@ namespace CalculatorTest
         {
             var x = new Calculator().Multiply(3, 2);
             Assert.AreEqual(6, x);
+        }
+
+        [TestMethod]
+        public void ShouldSubtractTwoNumbers()
+        {
+            var x = new Calculator().Subtract(8,5);
+            Assert.AreEqual(3, x);
+        }
+
+        [TestMethod]
+        public void ShouldDivideTwoNumbers()
+        {
+            var x = new Calculator().Divide(12, 3);
+            Assert.AreEqual(4, x);
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(DivideByZeroException))]
+        public void TestDivideByZero()
+        {
+            var x = new Calculator().Divide(4, 0);
+            //Should never run
+            Assert.IsTrue(false);
         }
     }
 }
