@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Text;
 
 
 namespace CalculatorLogic
@@ -12,6 +11,8 @@ namespace CalculatorLogic
         {
             var x = a + b;
             Console.ForegroundColor = color;
+            /* I changed this format of code every where in this class because my c# version is 5 and 
+              doesn't support the $ - string interpolation. */
             //Console.WriteLine($"The result is: {x}");
             Console.WriteLine("The result is: {0}",x);
             return x;
@@ -21,7 +22,6 @@ namespace CalculatorLogic
         {
             var x = a - b;
             Console.ForegroundColor = color;
-            //Console.WriteLine($"The result is: {x}");
             Console.WriteLine("The result is: {0}",x);
             return x;
         }
@@ -30,7 +30,6 @@ namespace CalculatorLogic
         {
             var x = a * b;
             Console.ForegroundColor = color;
-            //Console.WriteLine($"The result is: {x}");
             Console.WriteLine("The result is: {0}",x);
             return x;
         }
@@ -39,7 +38,6 @@ namespace CalculatorLogic
         {
             var x = a / b;
             Console.ForegroundColor = color;
-            //Console.WriteLine($"The result is: {x}");
             Console.WriteLine("The result is: {0}",x);
             return x;
         }
